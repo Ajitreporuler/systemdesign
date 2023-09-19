@@ -1,4 +1,4 @@
-package om.lld.SOLID.InterfaceSegregationP;
+package com.lld.SOLID.InterfaceSegregationP;
 
 /**
  * this interface is not following ISP, because implementation class will have to provide implementation for all the method even if it is not needed.
