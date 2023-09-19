@@ -1,4 +1,4 @@
-package om.lld.SOLID.DependencyInversionP;
+package com.lld.SOLID.DependencyInversionP;
 /**
  * low level module
  */

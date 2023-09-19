@@ -1,4 +1,4 @@
-package om.lld.SOLID.InterfaceSegregationP;
+package com.lld.SOLID.InterfaceSegregationP;
 
 /**
  * @author Ajit

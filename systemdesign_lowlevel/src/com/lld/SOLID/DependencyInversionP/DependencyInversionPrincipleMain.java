@@ -1,4 +1,4 @@
-package om.lld.SOLID.DependencyInversionP;
+package com.lld.SOLID.DependencyInversionP;
 
 /**
  *  Dependency Inversion Principle is one of solid principle which states,should not be coupling between high level component and low level component
@@ -26,6 +26,7 @@ public class DependencyInversionPrincipleMain {
 	
 	RoomDeviceControl rmd=new RoomDeviceControl(lightbulb);
 	rmd.switchOnOffDevice(true);
+	//rmd.switchOnOffDevice(false);
 	}
 
 }

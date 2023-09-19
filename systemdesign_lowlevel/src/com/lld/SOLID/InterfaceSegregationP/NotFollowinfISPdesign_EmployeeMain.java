@@ -1,4 +1,4 @@
-package om.lld.SOLID.InterfaceSegregationP;
+package com.lld.SOLID.InterfaceSegregationP;
 
 /**
  * if you want list of developer you will have to provide implementation for all the method which is present in interface
