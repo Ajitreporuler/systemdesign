@@ -5,7 +5,7 @@ package com.lld.SOLID.InterfaceSegregationP;
  * 
  * 
  *Interface segregation principle is one of SOLID principle which states , 
- *interface should be design in such a main that client/class should not implement method which is not needed.
+ *interface should be design in such a way that client/class should not implement method which is not needed.
  *
  *for an example IsPrincipleMain class will fetch detail of developer and managers hence it will implement developerIterface and managerinterface only.  
  */
